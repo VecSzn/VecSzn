@@ -11,3 +11,4 @@ I mostly write Python, C/C++ and C#.
 ## Contributed to
 
 - [ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) ![stars](https://img.shields.io/github/stars/mrexodia/ida-pro-mcp?style=flat) - a few small fixes.
+- [kev](https://github.com/jaredpalmer/kev) ![stars](https://img.shields.io/github/stars/jaredpalmer/kev?style=flat) - a few small fixes.
