@@ -6,8 +6,8 @@ I mostly write Python, C/C++ and C#.
 
 ## Projects
 
-- [lobes](https://github.com/VecSzn/lobes) ![stars](https://img.shields.io/github/stars/VecSzn/lobes?style=flat) - an experiment in splitting one local assistant into a few small models, each with one job, on a single consumer GPU.
 - [PolyStrata](https://github.com/VecSzn/PolyStrata) ![stars](https://img.shields.io/github/stars/VecSzn/PolyStrata?style=flat) - runs a few large open models on an ordinary PC and serves them through a local API. Built on [Strata](https://github.com/Niko1221/Strata).
+- [lobes](https://github.com/VecSzn/lobes) ![stars](https://img.shields.io/github/stars/VecSzn/lobes?style=flat) - an experiment in splitting one local assistant into a few small models, each with one job, on a single consumer GPU.
 
 ## Contributed to
 
